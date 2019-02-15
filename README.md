@@ -7,3 +7,6 @@ First controller need to implement `UIViewControllerTransitioningDelegate`
 Customization can be done in `ToTopRoundedTransition.swift` like color, time transition, changing offset, etc ... 
 
 Higly inspired by FranceInfo app commentary button behavior.
+
+
+![](transition.gif)
